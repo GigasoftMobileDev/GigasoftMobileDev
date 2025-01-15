@@ -14,13 +14,6 @@ At Gigasoft Mobile Development, we specialize in crafting high-quality mobile ap
 - **Quality Assurance**: Comprehensive testing to ensure app reliability.
 - **Maintenance & Support**: Ongoing support and updates to keep your app running smoothly.
 
-## Our Projects
-
-Here are some of the exciting projects we've worked on:
-
-1. **Project Alpha**: A revolutionary e-commerce app that enhances the shopping experience.
-2. **Project Beta**: A fitness app that helps users track their workouts and stay motivated.
-3. **Project Gamma**: A social networking app that connects users with shared interests.
 
 ## Our Clients
 
