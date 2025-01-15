@@ -1,6 +1,6 @@
 # Welcome to Gigasoft Mobile Development
 
-![Company Logo]([https://example.com/logo.png](https://www.gigasoft.in/dms/images/logodark.png))
+!([https://example.com/logo.png](https://www.gigasoft.in/dms/images/logodark.png))
 
 ## About Us
 
